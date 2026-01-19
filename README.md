@@ -1,10 +1,16 @@
 <!-- ===================== GITHUB PROFILE README ===================== -->
 
+<!-- ===== Background Banner ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2c5364&height=180&section=header&text=Anish%20Bhattarai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anish Bhattarai</h1>
 <h3 align="center">IT Student | Web, Database & Networking Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aneeshbht&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -86,3 +92,9 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+<!-- ===== Footer Background ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0e75b6&height=120&section=footer"/>
+</p>
