@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aneeshbht&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeshbht&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Aneeshbht">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
